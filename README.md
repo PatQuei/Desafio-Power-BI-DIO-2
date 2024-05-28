@@ -22,7 +22,7 @@
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-2. Abra o arquivo Projeto Power BI.pbix utilizando o Power BI Desktop.
+2. Abra o arquivo Projeto Desafio de Projeto - Paty.pbix utilizando o Power BI Desktop.
 3. Explore as diversas páginas e visualizações para entender melhor os dados analisados.
    
 ## Contribuição
